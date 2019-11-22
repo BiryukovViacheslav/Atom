@@ -1,0 +1,6 @@
+puts "Hello Slava"
+puts "Почему ты хочешь изменить жизнь, зачем тебе это нужно?"
+answer_life = gets.chomp
+puts "#{answer_life}"
+  end
+  
