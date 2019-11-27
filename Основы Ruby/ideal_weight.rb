@@ -1,6 +1,5 @@
 puts "Ваше Имя: "
-name = gets.chomp
-name = name.capitalize
+name = gets.chomp.capitalize
 puts "Ваш рост : "
 height = gets.chomp
 ideal_weight = (height.to_i - 110) * 1.15
